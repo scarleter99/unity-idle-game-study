@@ -5,366 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff4d0e2e-b5e0-40cc-a447-23fdd444cfc4" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Monster.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Monster.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/UI/UI_Joystick.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/UI/UI_Joystick.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/forest.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/forest.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/gathering_resources.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/gathering_resources.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/monsters.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/monsters.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs/BaseMap.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs/BaseMap.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_demon_tree_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_demon_tree_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_demon_tree_2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_demon_tree_2-1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_demon_tree_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_demon_tree_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_tree_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_tree_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_tree_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_tree_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_tree_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Gr/objects_gr_tree_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Npc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Npc/objects_deco_sord.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Npc/objects_deco_sord.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Npc/objects_deco_statue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Npc/objects_deco_statue.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Npc/objects_deco_tent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/Npc/objects_deco_tent.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_fence_8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_waterpot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_waterpot.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_woodax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_deco_woodax.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_normal_forest_grass_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_normal_forest_grass_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_normal_forest_grass_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_normal_forest_grass_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_normal_forest_wood_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_normal_forest_wood_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_normal_forest_wood_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/object_normal_forest_wood_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_born_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_born_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_blue_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_blue_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_blue_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_blue_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_red_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_red_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_red_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_red_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_red_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_bulding_red_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_forest_grass_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_forest_grass_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_forest_grass_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_forest_grass_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_forest_honey_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_forest_honey_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_forest_honey_flower_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_forest_honey_flower_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_mushroom_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_mushroom_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_mushroom_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_mushroom_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_rice.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_rice.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_spider_web_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_spider_web_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_spider_web_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_deco_spider_web_5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_light_forest_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_light_forest_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_light_forest_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_light_forest_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_light_forest_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_light_forest_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_light_forest_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/objects_light_forest_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/terrain_deco_dirt_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/object_prop/terrain_deco_dirt_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_1 - Copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_1 - Copy.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_2 - Copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_2 - Copy.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_3 - Copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_3 - Copy.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/front_cloud_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_desert_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_desert_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_desert_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_desert_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_desert_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_desert_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_forest_wood_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/objects_wall_forest_wood_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_deco_spider_web_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_deco_spider_web_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_wall_forest_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_wall_forest_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_wall_forest_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_wall_forest_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_wall_forest_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain/terrain_wall_forest_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_born.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_born.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_dirt_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_dirt_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_dirt_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_dirt_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_dirt_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_dirt_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_flower_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_flower_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_flower_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_flower_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_forest_honey_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_forest_honey_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_forest_honey_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_forest_honey_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_forest_honey_flower_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_forest_honey_flower_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_forest_honey_flower_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_forest_honey_flower_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_grass_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_grass_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_grass_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_grass_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_pond_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_pond_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_spider_web_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_spider_web_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_spider_web_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_spider_web_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_spider_web_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_spider_web_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_stone_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_stone_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_stone_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_stone_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_sun_glass_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_sun_glass_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_sun_glass_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_sun_glass_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_deco_swamp_6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_11.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_river_9.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_0.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_0_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_0_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_11.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_12.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_13.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_14.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_15.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_16.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/terrain_road_9.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/레이어 446.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Sprites/terrain_deco/레이어 446.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Gr.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Gr/random_tree_gr 2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Gr/random_tree_gr 2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Gr/random_tree_gr.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Gr/random_tree_gr.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Npc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/object_01.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/object_01.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/object_02.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/object_02.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_forest_honey_2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_forest_honey_2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_mushroom_1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_mushroom_1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_mushroom_2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_mushroom_2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_spider_web_4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_spider_web_4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_spider_web_5.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/objects_deco_spider_web_5.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/random_fance_front.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/object_prop/random_fance_front.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/cloud.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/cloud.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_3.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_3.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_5.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_5.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_6.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_6.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_7.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrain_7.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrrain_wall_forest.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/terrrain_wall_forest.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/wall_mountain 1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain/wall_mountain 1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/New Isometric Rule Tile 1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/New Isometric Rule Tile 1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/New Isometric Rule Tile.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/New Isometric Rule Tile.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/random_deco.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/random_deco.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/spider.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/spider.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/terrain_river.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/terrain_river.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/terrain_road.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/terrain_deco/terrain_road.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scenes/DevScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scenes/DevScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/BaseObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/BaseObject.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/CameraController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/CameraController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Creature.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Creature.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Hero.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Hero.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Monster.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Monster.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/GameManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/ObjectManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/ObjectManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/UI/UI_Joystick.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/UI/UI_Joystick.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Prefabs/hero.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Hero.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Prefabs/hero.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Hero.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Managers/Managers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Managers.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Scenes/GameScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Scenes/GameScene.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Utils/Define.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/Define.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Utils/Extension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/Extension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AddressableAssetSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AddressableAssetSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Prefabs.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Prefabs.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/UI.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/UI.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.M1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -374,6 +15,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2j08wAoV2OKGqQM92MpkG4bVyBK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -385,6 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -394,8 +40,8 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\ddino\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\ddino\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\ddino\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\ddino\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
       "C:\\Users\\ddino\\AppData\\Local\\Symbols\\src"
     ]
   }
@@ -447,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720512873357</updated>
       <workItem from="1720512882499" duration="3077000" />
+      <workItem from="1720690754050" duration="4980000" />
     </task>
     <servers />
   </component>

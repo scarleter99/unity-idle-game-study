@@ -38,12 +38,18 @@ public class Monster : Creature
 			return false;
 
 		CreatureType = ECreatureType.Monster;
-		CreatureState = ECreatureState.Idle;
-		Speed = 3.0f;
 
 		StartCoroutine(CoUpdateAI());
 
 		return true;
+	}
+
+	public override void SetInfo(int templateID)
+	{
+		base.SetInfo(templateID);
+
+		// State
+		CreatureState = ECreatureState.Idle;
 	}
 
 	void Start()
@@ -60,8 +66,6 @@ public class Monster : Creature
 
 	protected override void UpdateIdle()
 	{
-		Debug.Log("Idle");
-
 		// Patrol
 		{
 			int patrolPercent = 10;
@@ -106,19 +110,17 @@ public class Monster : Creature
 
 	protected override void UpdateMove()
 	{
-		Debug.Log("Move");
-
 		if (_target == null)
 		{
 			// Patrol or Return
 			Vector3 dir = (_destPos - transform.position);
-			float moveDist = Mathf.Min(dir.magnitude, Time.deltaTime * Speed);
-			transform.TranslateEx(dir.normalized * moveDist);
-
 			if (dir.sqrMagnitude <= 0.01f)
 			{
 				CreatureState = ECreatureState.Idle;
+				return;
 			}
+
+			SetRigidBodyVelocity(dir.normalized * MoveSpeed);
 		}
 		else
 		{
@@ -136,8 +138,7 @@ public class Monster : Creature
 			else
 			{
 				// 공격 범위 밖이라면 추적.
-				float moveDist = Mathf.Min(dir.magnitude, Time.deltaTime * Speed);
-				transform.TranslateEx(dir.normalized * moveDist);
+				SetRigidBodyVelocity(dir.normalized * MoveSpeed);
 
 				// 너무 멀어지면 포기.
 				float searchDistanceSqr = SearchDistance * SearchDistance;
@@ -153,7 +154,6 @@ public class Monster : Creature
 
 	protected override void UpdateSkill()
 	{
-		Debug.Log("Skill");
 
 		if (_coWait != null)
 			return;
@@ -163,8 +163,23 @@ public class Monster : Creature
 
 	protected override void UpdateDead()
 	{
-		Debug.Log("Dead");
 
+	}
+	#endregion
+
+	#region Battle
+	public override void OnDamaged(BaseObject attacker)
+	{
+		base.OnDamaged(attacker);
+	}
+
+	public override void OnDead(BaseObject attacker)
+	{
+		base.OnDead(attacker);
+
+		// TODO : Drop Item
+
+		Managers.Object.Despawn(this);
 	}
 	#endregion
 }
