@@ -33,7 +33,7 @@ namespace Data
 		public string SkeletonDataID;
 		public string AnimatorName;
 		public List<int> SkillIdList = new List<int>();
-		public int DropItemId;
+		
 	}
 	#endregion
 
@@ -41,6 +41,7 @@ namespace Data
 	[Serializable]
 	public class MonsterData : CreatureData
 	{
+		public int DropItemId;
 	}
 
 	[Serializable]

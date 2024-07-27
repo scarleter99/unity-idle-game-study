@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Assets\@Resources\Data\ExcelData\CreatureData.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\Assets\@Resources\Data\ExcelData\EnvData.csv">
           <value>
             <Attribute>
