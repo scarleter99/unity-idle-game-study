@@ -5,79 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff4d0e2e-b5e0-40cc-a447-23fdd444cfc4" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Data/MapData.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Data/MapData/BaseMapCollision.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/202005_goblin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/202005_goblin.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/202006_bear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/202006_bear.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/goblin_shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/goblin_shot.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/slime_idle1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/slime_idle1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/woodman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/Sprites/Object/Creature/Monster/woodman.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Env.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Env/300001_나무1.Asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Env/300001_나무1.Asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Env/301000_미네랄1.Asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Env/301000_미네랄1.Asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202001_슬라임.Asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202001_슬라임.Asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202002_일반거미.Asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202002_일반거미.Asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202003_희귀거미.Asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202003_희귀거미.Asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202004_나무맨.Asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202004_나무맨.Asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202005_활 든 고블린.Asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202005_활 든 고블린.Asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202006_곰.Asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Monster/202006_곰.Asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/Npc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/terrain_O.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/terrain_O.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/terrain_O.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/terrain_O.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/terrain_X.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/terrain_X.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/terrain_X.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Tiles/Dev/terrain_X.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Editor/MapEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Editor/MapEditor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/MapManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/MapManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/CustomTile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/CustomTile.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/PriorityQueue.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/PriorityQueue.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.M1/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.M1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/HeroData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/HeroData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/MonsterData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/MonsterData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/ProjectileData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/ProjectileData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/SkillData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/SkillData.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/HeroData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/HeroData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/MonsterData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/MonsterData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Projectile/Projectile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Projectile/Projectile.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/gathering_resources.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/Dev.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/gathering_resources.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/Dev.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/monsters.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/monsters.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/MapData/BaseMapCollision.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/ProjectileData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/ProjectileData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/SkillData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/SkillData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Creature/Hero.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Creature/Hero.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/003_alchemist/003_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/003_alchemist/003_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/Thumbs.db.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/Thumbs.db.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.atlas.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.atlas.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_Atlas.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_Atlas.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_Material.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_SkeletonData.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_SkeletonData.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/Dev.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/Dev.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs/BaseMap.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs/BaseMap.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs/BaseMap.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs/BaseMap.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/NormalAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/NormalAttack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/SkillBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/SkillBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/SkillComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/SkillComponent.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/BaseObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/BaseObject.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Creature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Creature.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Hero.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Hero.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/HeroCamp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/HeroCamp.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Monster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Monster.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Env/Env.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Env/Env.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Projectile/Projectile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Projectile/Projectile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Data/Data.Contents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Data/Data.Contents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Editor/DataTransformer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Editor/DataTransformer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Managers/Managers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Managers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/MapManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/MapManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/ObjectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/ObjectManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Scenes/GameScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Scenes/GameScene.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/UI/Scene/UI_TitleScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/UI/Scene/UI_TitleScene.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Utils/Define.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/Define.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Utils/Util.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/Util.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Prefabs.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Prefabs.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Spines.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Spines.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +56,18 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5879d8d225474494bcffdfe64965038e174000/3d/3ce01675/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/4a/a1607c99/List`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b79197892d5043bf8ab30d6f8227730f4200/1d/75491fcb/GridLayout.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b79197892d5043bf8ab30d6f8227730f4200/89/53e8c46f/Grid.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d22d37477ae1401e9dbaa094fd93f74da200/6d/e2f7f3fd/Tilemap.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.animation@9.0.4/Editor/SkinningModule/HorizontalToggleTools.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.animation@9.0.4/Editor/SkinningModule/SkinningModuleView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.9/Editor/ShaderGUI/Shaders/ParticlesSimpleLitShader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.9/Runtime/2D/CinemachineUniversalPixelPerfect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.9/Runtime/2D/Clipper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.9/Runtime/Passes/ScriptableRenderPass.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.9/ShaderLibrary/BRDF.hlsl" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.9/ShaderLibrary/RealtimeLights.hlsl" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -175,6 +151,8 @@
       <workItem from="1720936556449" duration="7984000" />
       <workItem from="1721372942461" duration="5588000" />
       <workItem from="1721719009879" duration="6240000" />
+      <workItem from="1722060674424" duration="7365000" />
+      <workItem from="1722491916559" duration="7612000" />
     </task>
     <servers />
   </component>
