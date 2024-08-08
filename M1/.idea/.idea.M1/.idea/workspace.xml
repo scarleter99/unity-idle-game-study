@@ -5,46 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff4d0e2e-b5e0-40cc-a447-23fdd444cfc4" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.M1/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.M1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.M1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/HeroData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/HeroData.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/MonsterData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/MonsterData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/ProjectileData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/ProjectileData.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/SkillData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/ExcelData/SkillData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/HeroData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/HeroData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/MonsterData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/MonsterData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/ProjectileData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/ProjectileData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/SkillData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Data/JsonData/SkillData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Creature/Hero.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Prefabs/Objects/Creature/Hero.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/001_Knight/001.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/001_Knight/001.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/002_Wizard/002.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/002_Wizard/002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/003_alchemist/003.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/003_alchemist/003.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/003_alchemist/003_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/003_alchemist/003_Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/Thumbs.db.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/Thumbs.db.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.atlas.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.atlas.txt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.json.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_Atlas.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_Atlas.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_Material.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_SkeletonData.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Monster/bear/bear_SkeletonData.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/Dev.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Palettes/Dev.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs/BaseMap.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/TileMaps/Prefabs/BaseMap.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/NormalAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/NormalAttack.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/SkillBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/SkillBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/SkillComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Contents/Skill/SkillComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/004_Lion/004.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/004_Lion/004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/005_vam/005.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Resources/Spines/Hero/005_vam/005.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/BaseObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/BaseObject.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Creature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Creature.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Hero.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Hero.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Monster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Creature/Monster.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Env/Env.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Env/Env.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Projectile/Projectile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Controllers/Projectile/Projectile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Data/Data.Contents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Data/Data.Contents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/MapManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/MapManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Editor/DataTransformer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Editor/DataTransformer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/ObjectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Contents/ObjectManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Managers/Core/DataManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Managers/Core/DataManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Scenes/GameScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Scenes/GameScene.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Utils/Define.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/Define.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/@Scripts/Utils/Util.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/@Scripts/Utils/Util.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Prefabs.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Prefabs.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Spines.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Spines.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +139,9 @@
       <workItem from="1721719009879" duration="6240000" />
       <workItem from="1722060674424" duration="7365000" />
       <workItem from="1722491916559" duration="7612000" />
+      <workItem from="1722842754541" duration="5400000" />
+      <workItem from="1723097501037" duration="4420000" />
+      <workItem from="1723104527269" duration="1424000" />
     </task>
     <servers />
   </component>
